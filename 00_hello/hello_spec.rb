@@ -55,7 +55,8 @@
 #
 # ## Make it return something
 #
-# Inside the "hello" function, put a single line containing a string that is *not* "Hello!". (Here we are simulating you making an honest mistake, so we can see what the error message looks like.)
+# Inside the "hello" function, put a single line containing a string that
+# is *not* "Hello!". (Here we are simulating you making an honest mistake, so we can see what the error message looks like.)
 #
 #     def hello
 #       "whuh?"
